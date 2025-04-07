@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jM1m0rxWUDNVVDKS5VZNXSH6niECVRQb4Y3HAaPWmWw=",
+  "Source": "FranchisorTBK.API",
+  "BasePath": "_content/FranchisorTBK.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

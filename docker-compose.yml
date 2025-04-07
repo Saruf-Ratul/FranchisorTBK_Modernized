@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  backend:
+    build: ./backend/FranchisorTBK.API
+    ports:
+      - "5000:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+
+  frontend:
+    build: ./frontend/frontend
+    ports:
+      - "5173:5173"
+    command: npm run dev

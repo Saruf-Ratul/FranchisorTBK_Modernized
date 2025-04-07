@@ -1,0 +1,15 @@
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Application\bin\Debug\net9.0\FranchisorTBK.Application.deps.json
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Application\bin\Debug\net9.0\FranchisorTBK.Application.dll
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Application\bin\Debug\net9.0\FranchisorTBK.Application.pdb
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Application\bin\Debug\net9.0\FranchisorTBK.Domain.dll
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Application\bin\Debug\net9.0\FranchisorTBK.Domain.pdb
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Application\obj\Debug\net9.0\FranchisorTBK.Application.csproj.AssemblyReference.cache
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Application\obj\Debug\net9.0\FranchisorTBK.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Application\obj\Debug\net9.0\FranchisorTBK.Application.AssemblyInfoInputs.cache
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Application\obj\Debug\net9.0\FranchisorTBK.Application.AssemblyInfo.cs
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Application\obj\Debug\net9.0\FranchisorTBK.Application.csproj.CoreCompileInputs.cache
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Application\obj\Debug\net9.0\Franchis.6A9D7732.Up2Date
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Application\obj\Debug\net9.0\FranchisorTBK.Application.dll
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Application\obj\Debug\net9.0\refint\FranchisorTBK.Application.dll
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Application\obj\Debug\net9.0\FranchisorTBK.Application.pdb
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Application\obj\Debug\net9.0\ref\FranchisorTBK.Application.dll

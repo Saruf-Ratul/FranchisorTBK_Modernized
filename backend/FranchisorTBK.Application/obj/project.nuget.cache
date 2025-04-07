@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aIbXoKThovE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Saruf\\Downloads\\FranchisorTBK_Modernized\\backend\\FranchisorTBK.Application\\FranchisorTBK.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Saruf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

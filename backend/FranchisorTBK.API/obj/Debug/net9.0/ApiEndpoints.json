@@ -1,0 +1,64 @@
+[
+  {
+    "ContainingType": "FranchisorTBK.API.Controllers.FranchiseesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Franchisees",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[FranchisorTBK.Domain.Entities.Franchisee, FranchisorTBK.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FranchisorTBK.API.Controllers.FranchiseesController",
+    "Method": "Create",
+    "RelativePath": "api/Franchisees",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "franchisee",
+        "Type": "FranchisorTBK.Domain.Entities.Franchisee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FranchisorTBK.API.Controllers.FranchiseesController",
+    "Method": "GetKpis",
+    "RelativePath": "api/Franchisees/{id}/kpis",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[FranchisorTBK.Domain.Entities.KpiResult, FranchisorTBK.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

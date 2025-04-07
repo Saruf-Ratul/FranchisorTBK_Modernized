@@ -1,0 +1,11 @@
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Domain\bin\Debug\net9.0\FranchisorTBK.Domain.deps.json
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Domain\bin\Debug\net9.0\FranchisorTBK.Domain.dll
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Domain\bin\Debug\net9.0\FranchisorTBK.Domain.pdb
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Domain\obj\Debug\net9.0\FranchisorTBK.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Domain\obj\Debug\net9.0\FranchisorTBK.Domain.AssemblyInfoInputs.cache
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Domain\obj\Debug\net9.0\FranchisorTBK.Domain.AssemblyInfo.cs
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Domain\obj\Debug\net9.0\FranchisorTBK.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Domain\obj\Debug\net9.0\FranchisorTBK.Domain.dll
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Domain\obj\Debug\net9.0\refint\FranchisorTBK.Domain.dll
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Domain\obj\Debug\net9.0\FranchisorTBK.Domain.pdb
+C:\Users\Saruf\Downloads\FranchisorTBK_Modernized\backend\FranchisorTBK.Domain\obj\Debug\net9.0\ref\FranchisorTBK.Domain.dll
